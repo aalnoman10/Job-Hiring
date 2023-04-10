@@ -1,0 +1,18 @@
+.singleJobCategory {
+    flex-grow: 1;
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.singleJobCategory>div {
+    padding: 1rem;
+    margin: 0 auto;
+    width: 150px;
+}
+
+
+.singleJobCategory h4 {
+    font-weight: 800;
+    font-size: 20px;
+}

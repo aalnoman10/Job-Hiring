@@ -1,11 +1,12 @@
 import React from 'react';
 import Banner from '../Banner/Banner';
+import JobCategoryList from '../JobCategoryList/JobCategoryList';
 
 const LandingPage = () => {
     return (
         <div>
             <Banner></Banner>
-            lan
+            <JobCategoryList></JobCategoryList>
         </div>
     );
 };

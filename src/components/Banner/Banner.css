@@ -17,15 +17,8 @@ article h1 span {
     color: #6170cf;
 }
 
-article p {
-    font-weight: 500;
-    font-size: 18px;
-    color: #757575;
-    padding: 1.2rem 0;
-}
-
 @media screen and (max-width : 576px) {
-    .container.flex.banner-bg {
+    .container.flex.light-bg {
         display: block;
     }
 
