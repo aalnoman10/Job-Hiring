@@ -36,3 +36,12 @@
   font-size: 25px;
   color: #1A1919;
 }
+
+.banner-bg {
+  background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}

@@ -6,6 +6,11 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Home from './components/Home/Home';
+import LandingPage from './components/LandingPage/LandingPage';
+import Blog from './components/Blog/Blog';
+import Statistics from './components/Statistics/Statistics';
+import AppliedJobs from './components/AppliedJobs/AppliedJobs';
+import StarApplying from './components/StarApplying/StarApplying';
 
 const router = createBrowserRouter([
   {
@@ -14,7 +19,23 @@ const router = createBrowserRouter([
     children: [
       {
         path: '/',
-        element: <p>h</p>
+        element: <LandingPage></LandingPage>
+      },
+      {
+        path: '/statistics',
+        element: <Statistics></Statistics>
+      },
+      {
+        path: '/applied-Jobs',
+        element: <AppliedJobs></AppliedJobs>
+      },
+      {
+        path: '/blog',
+        element: <Blog></Blog>
+      },
+      {
+        path: '/star-applying',
+        element: <StarApplying></StarApplying>
       }
     ]
   },

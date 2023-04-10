@@ -1,0 +1,25 @@
+.pb-0 {
+    padding-bottom: 0;
+}
+
+article,
+aside {
+    flex-basis: 50%;
+}
+
+article h1 {
+    font-weight: 800;
+    font-size: 70px;
+    color: #1A1919;
+}
+
+article h1 span {
+    color: #6170cf;
+}
+
+article p {
+    font-weight: 500;
+    font-size: 18px;
+    color: #757575;
+    padding: 1.2rem 0;
+}
