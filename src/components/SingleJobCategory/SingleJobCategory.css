@@ -16,3 +16,9 @@
     font-weight: 800;
     font-size: 20px;
 }
+
+@media screen and (max-width : 576px) {
+    .singleJobCategory {
+        margin: 1.5rem 0;
+    }
+}

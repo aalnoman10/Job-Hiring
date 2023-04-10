@@ -2,3 +2,9 @@
     justify-content: unset;
     gap: 1rem;
 }
+
+@media screen and (max-width : 576px) {
+    .job-category-container.flex {
+        display: block;
+    }
+}
