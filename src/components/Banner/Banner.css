@@ -23,3 +23,19 @@ article p {
     color: #757575;
     padding: 1.2rem 0;
 }
+
+@media screen and (max-width : 576px) {
+    .container.flex.banner-bg {
+        display: block;
+    }
+
+    article {
+        padding-bottom: 1rem;
+    }
+
+    article h1 {
+        font-weight: 800;
+        font-size: 50px;
+        color: #1A1919;
+    }
+}
