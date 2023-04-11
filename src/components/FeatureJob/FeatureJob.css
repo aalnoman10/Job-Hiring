@@ -1,0 +1,17 @@
+.feature-item {
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid #98bed2;
+}
+
+.feature-img {
+    width: 150px;
+    margin-bottom: 1rem;
+}
+
+.btn.pri-btn {
+    background: #fff;
+    color: #7E90FE;
+    border: 1px solid #7E90FE;
+    margin-right: 5px;
+}
