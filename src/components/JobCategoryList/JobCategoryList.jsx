@@ -6,12 +6,12 @@ const JobCategoryList = () => {
     const [jobCategoryDatas, setJobCategoryDatas] = useState([]);
 
     useEffect(() => {
-        fetch('pake/jobAble.json')
+        fetch('/pake/jobAble.json')
             .then(res => res.json())
             .then(data => setJobCategoryDatas(data))
     }, [])
 
-    console.log(jobCategoryDatas);
+
     return (
         <div className='container'>
             <h3 className='text-center h3'>Job Category List</h3>

@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "companyLogo": "../../src/assets/Logo/google-1-1_1-1.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Acme Inc.",
+        "work": [
+            "Full Time",
+            "Remote"
+        ],
+        "location": "New York, NY",
+        "time": "Monday-Friday, 9am-5pm",
+        "salary": "$100,000-$120,000",
+        "jobDescription": "Acme Inc. is seeking a talented software engineer to join our team. The ideal candidate will have experience with...",
+        "jobResponsibility": "- Develop high-quality software using the latest technologies and best practices \n- Collaborate with cross-functional teams to define, design, and ship new features \n- Participate in code reviews and contribute to the company's technical knowledge base",
+        "educationRequirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "2+ years of experience in software development",
+        "contactInfo": {
+            "phone": "(123) 456-7890",
+            "email": "jobs@acme.com"
+        }
+    },
+    {
+        "id": 2,
+        "companyLogo": "../../src/assets/Logo/google-1-1_1.png",
+        "jobTitle": "Marketing Manager",
+        "companyName": "XYZ Corp.",
+        "work": [
+            "Full Time",
+            "Remote"
+        ],
+        "location": "San Francisco, CA",
+        "time": "Monday-Friday, 9am-5pm",
+        "salary": "$80,000-$100,000",
+        "jobDescription": "XYZ Corp. is looking for a marketing manager to lead our marketing team. The ideal candidate will have experience with...",
+        "jobResponsibility": "- Develop and execute marketing strategies to drive growth and revenue \n- Manage a team of marketing professionals \n- Analyze data and metrics to measure the effectiveness of marketing campaigns",
+        "educationRequirements": "Bachelor's degree in Marketing, Business, or related field",
+        "experiences": "5+ years of experience in marketing",
+        "contactInfo": {
+            "phone": "(123) 456-7890",
+            "email": "jobs@xyzcorp.com"
+        }
+    },
+    {
+        "id": 3,
+        "companyLogo": "../../src/assets/Logo/netflix-4_1.png",
+        "jobTitle": "Graphic Designer",
+        "companyName": "Design Co.",
+        "work": [
+            "Part Time",
+            "Remote"
+        ],
+        "location": "Any",
+        "time": "Flexible",
+        "salary": "$30-$50/hour",
+        "jobDescription": "Design Co. is seeking a talented graphic designer to work with our team on various projects. The ideal candidate will have experience with...",
+        "jobResponsibility": "- Design engaging and effective graphics for a variety of mediums \n- Work with clients to understand their needs and deliver designs that meet their expectations \n- Collaborate with other designers and creative professionals to develop and refine design concepts",
+        "educationRequirements": "Bachelor's degree in Graphic Design or related field",
+        "experiences": "2+ years of experience in graphic design",
+        "contactInfo": {
+            "phone": "(123) 456-7890",
+            "email": "jobs@designco.com"
+        }
+    },
+    {
+        "id": 4,
+        "companyLogo": "/src/assets/Logo/tesla-9-1.png",
+        "jobTitle": "Accountant",
+        "companyName": "Financial Services Inc.",
+        "work": [
+            "Remote"
+        ],
+        "location": "Boston, MA",
+        "time": "Monday-Friday, 9am-5pm",
+        "salary": "$70,000-$90,000",
+        "jobDescription": "Financial Services Inc. is seeking an experienced accountant to join our team. The ideal candidate will have experience with...",
+        "jobResponsibility": "- Manage financial records and ensure compliance with accounting standards \n- Prepare and analyze financial statements and reports \n- Provide guidance and support to other members of the finance team",
+        "educationRequirements": "Bachelor's degree in Accounting or related field, CPA preferred",
+        "experiences": "5+ years of experience in accounting",
+        "contactInfo": {
+            "phone": "(123) 456-7890",
+            "email": "jobs@financialservicesinc.com"
+        }
+    },
+    {
+        "id": 5,
+        "companyLogo": "../../src/assets/Logo/google-1-1_1-1.png",
+        "jobTitle": "Operations Manager",
+        "companyName": "Logistics Co.",
+        "work": [
+            "Full Time",
+            "Onsite"
+        ],
+        "location": "Atlanta, GA",
+        "time": "Monday-Friday, 9am-5pm",
+        "salary": "$80,000-$100,000",
+        "jobDescription": "Logistics Co. is seeking an experienced operations manager to oversee our daily operations. The ideal candidate will have experience with...",
+        "jobResponsibility": "- Plan and coordinate operations to ensure efficient and effective delivery of goods and services \n- Develop and implement policies and procedures to improve operational efficiency and quality \n- Manage and motivate a team of operations staff",
+        "educationRequirements": "Bachelor's degree in Business Administration, Operations Management, or related field",
+        "experiences": "5+ years of experience in operations management",
+        "contactInfo": {
+            "phone": "(123) 456-7890",
+            "email": "jobs@logisticsco.com"
+        }
+    },
+    {
+        "id": 6,
+        "companyLogo": "../../src/assets/Logo/netflix-4_1.png",
+        "jobTitle": "Customer Service Representative",
+        "companyName": "Service Co.",
+        "work": [
+            "Full Time",
+            "Remote"
+        ],
+        "location": "Dallas, TX",
+        "time": "Monday-Friday, 9am-5pm",
+        "salary": "$40,000-$50,000",
+        "jobDescription": "Service Co. is seeking a customer service representative to provide excellent service to our customers. The ideal candidate will have experience with...",
+        "jobResponsibility": "- Respond to customer inquiries and resolve issues in a timely and professional manner \n- Maintain accurate customer records and documentation \n- Work collaboratively with other teams to ensure customer satisfaction",
+        "educationRequirements": "High school diploma or equivalent, some college coursework preferred",
+        "experiences": "2+ years of experience in customer service",
+        "contactInfo": {
+            "phone": "(123) 456-7890",
+            "email": "jobs@serviceco.com"
+        }
+    }
+]
