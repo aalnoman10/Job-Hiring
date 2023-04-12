@@ -1,0 +1,20 @@
+.applied-job>div {
+    padding: 1rem;
+}
+
+.applied-job {
+    justify-content: unset;
+    padding: 1rem;
+    border: 1px solid #7E90FE;
+    border-radius: 8px;
+}
+
+.fist-child {
+    width: 10rem;
+    height: 11rem;
+    border-radius: 8px;
+}
+
+.applied-job-info {
+    flex-grow: 1;
+}
