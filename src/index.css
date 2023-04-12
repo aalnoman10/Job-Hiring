@@ -71,3 +71,28 @@ img {
 .gray {
   color: gray;
 }
+
+.icon {
+  width: 15px;
+  height: 15px;
+}
+
+.p-extra {
+  padding: 4rem 0;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+/* 
+@media screen and (max-width : 576px) {
+    .singleJobCategory {
+        margin: 1.5rem 0;
+    }
+}
+*/

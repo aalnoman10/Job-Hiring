@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import './FeatureJob.css'
 
 const FeatureJob = ({ featureDataReceive }) => {
-    console.log(featureDataReceive);
     const { id, companyLogo, companyName, jobTitle, work, location, salary } = featureDataReceive
+
     return (
         <div className='feature-item'>
             <div className='feature-img'>
@@ -17,8 +17,8 @@ const FeatureJob = ({ featureDataReceive }) => {
                     work.map((w, ind) => <button key={ind} className='btn pri-btn'>{w}</button>)
                 }
             </p>
-            <p className='p pb-0'>{location} <span className='gray'> Salary : {salary} </span></p>
-            <p className='p pb-0'><Link><button className='btn'>View Details</button></Link></p>
+            <p className='p pb-0'><img src="/src/assets/Icons/Frame-4.png" alt="" className="icon" />{location} <span className='gray'> <img src="/src/assets/Icons/Frame.png" alt="" className="icon" /> Salary : {salary} </span></p>
+            <p className='p pb-0'><Link to={`/job-details/${id}`}><button className='btn'>View Details</button></Link></p>
 
         </div>
     );

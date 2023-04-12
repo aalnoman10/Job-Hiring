@@ -1,0 +1,16 @@
+.job-info {
+    display: grid;
+    grid-template-columns: 8fr 4fr;
+    gap: 1rem;
+    padding: 2rem 10%;
+}
+
+.btn.w-100 {
+    margin: 1.5rem 0;
+}
+
+@media screen and (max-width : 576px) {
+    .job-info {
+        grid-template-columns: 1fr;
+    }
+}
