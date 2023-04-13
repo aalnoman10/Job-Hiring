@@ -32,13 +32,13 @@ const SingleJobDetails = ({ JobDetailsId }) => {
                 <div className='light-bg p-1'>
                     <h3>Job Details</h3>
                     <br />
-                    <p className="p"><img className='icon' src="/src/assets/Icons/Frame-4.png" alt="" /> <strong>Salary :</strong>{remaining ? remaining.salary : ''}</p>
-                    <p className="p"><img className='icon' src="/src/assets/Icons/Frame-1.png" alt="" /><strong> Job Title :</strong> {remaining ? remaining.jobTitle : ''}</p>
+                    <p className="p"><img className='icon' src="./src/assets/Icons/Frame-4.png" alt="" /> <strong>Salary :</strong>{remaining ? remaining.salary : ''}</p>
+                    <p className="p"><img className='icon' src="./src/assets/Icons/Frame-1.png" alt="" /><strong> Job Title :</strong> {remaining ? remaining.jobTitle : ''}</p>
                     <br />
                     <h3> Contact Information</h3>
-                    <p className="p"><img className='icon' src="/src/assets/Icons/Frame-2.png" alt="" /><strong> Phone : </strong>{remaining ? remaining.contactInfo.phone : ''}</p>
-                    <p className="p"><img className='icon' src="/src/assets/Icons/Frame-3.png" alt="" /><strong> Email : </strong>{remaining ? remaining.contactInfo.email : ''}</p>
-                    <p className="p"><img className='icon' src="/src/assets/Icons/Location-Icon.png" alt="" /><strong> Address : </strong>{remaining ? remaining.location : ''}</p>
+                    <p className="p"><img className='icon' src="./src/assets/Icons/Frame-2.png" alt="" /><strong> Phone : </strong>{remaining ? remaining.contactInfo.phone : ''}</p>
+                    <p className="p"><img className='icon' src="./src/assets/Icons/Frame-3.png" alt="" /><strong> Email : </strong>{remaining ? remaining.contactInfo.email : ''}</p>
+                    <p className="p"><img className='icon' src="./src/assets/Icons/Location-Icon.png" alt="" /><strong> Address : </strong>{remaining ? remaining.location : ''}</p>
                 </div>
                 <button onClick={() => addToDb(remaining ? remaining.id : '')} className="btn w-100 ">Apply Now</button>
             </div>
