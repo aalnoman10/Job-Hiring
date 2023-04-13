@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "companyLogo": "./src/assets/Logo/google-1-1_1-1.png",
+        "companyLogo": "/src/assets/Logo/google-1-1_1-1.png",
         "jobTitle": "Technical Database Engineer",
         "companyName": "Google LLC",
         "work": [
@@ -22,7 +22,7 @@
     },
     {
         "id": 2,
-        "companyLogo": "./src/assets/Logo/netflix-4_1.png",
+        "companyLogo": "/src/assets/Logo/netflix-4_1.png",
         "jobTitle": "Senior Product Designer",
         "companyName": "Netflix",
         "work": [
@@ -43,7 +43,7 @@
     },
     {
         "id": 3,
-        "companyLogo": "./src/assets/Logo/tesla-9-1.png",
+        "companyLogo": "/src/assets/Logo/tesla-9-1.png",
         "jobTitle": "Software Engineer",
         "companyName": "Tesla",
         "work": [
@@ -64,7 +64,7 @@
     },
     {
         "id": 4,
-        "companyLogo": "./src/assets/Logo/google-1-1_1.png",
+        "companyLogo": "/src/assets/Logo/google-1-1_1.png",
         "jobTitle": "Accountant",
         "companyName": "Google LLc",
         "work": [
@@ -84,7 +84,7 @@
     },
     {
         "id": 5,
-        "companyLogo": "./src/assets/Logo/netflix-4_1.png",
+        "companyLogo": "/src/assets/Logo/netflix-4_1.png",
         "jobTitle": "Operations Manager",
         "companyName": "Netflix",
         "work": [
@@ -105,7 +105,7 @@
     },
     {
         "id": 6,
-        "companyLogo": "./src/assets/Logo/tesla-9-1.png",
+        "companyLogo": "/src/assets/Logo/tesla-9-1.png",
         "jobTitle": "Customer Service Representative",
         "companyName": "Tesla",
         "work": [
